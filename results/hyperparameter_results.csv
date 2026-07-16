@@ -1,0 +1,4 @@
+Model,Accuracy,Best Parameters
+svm,0.9423286180631121,"{'classifier__C': 1, 'classifier__max_iter': 5000, 'tfidf__max_features': 5000}"
+logistic_regression,0.9379760609357998,"{'classifier__C': 10, 'classifier__max_iter': 5000, 'tfidf__max_features': 5000}"
+random_forest,0.9107725788900979,"{'classifier__max_depth': None, 'classifier__n_estimators': 200, 'tfidf__max_features': 3000}"
